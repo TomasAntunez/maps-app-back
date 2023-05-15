@@ -1,4 +1,4 @@
-# Simple socket server with express
+# Backend socket maps app
 
 ## Setup
 ```
